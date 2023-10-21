@@ -1,0 +1,23 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+  }
+
+.default-text {
+    margin: 0;
+    padding: 0;
+    color: white;
+    text-align: center; 
+    font-size: 10vw; 
+    font-family: 'impress';
+}
+
+@font-face {
+    font-family: 'impress';
+    src: url('../resources/fonts/impress2-webfont.woff2') format('woff2'),
+         url('../resources/fonts/impress2-webfont.woff2') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
