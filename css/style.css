@@ -16,8 +16,8 @@
 
 @font-face {
     font-family: 'impress';
-    src: url('../resources/fonts/impress2-webfont.woff2') format('woff2'),
-         url('../resources/fonts/impress2-webfont.woff2') format('woff');
+    src: url('/resources/fonts/impress2-webfont.woff2') format('woff2'),
+         url('/resources/fonts/impress2-webfont.woff2') format('woff');
     font-weight: normal;
     font-style: normal;
 }
