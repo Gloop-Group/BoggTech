@@ -14,6 +14,24 @@
     font-family: 'impress';
 }
 
+.small-text {
+    margin: 0;
+    padding: 0;
+    color: white;
+    text-align: center; 
+    font-size: 5vw; 
+    font-family: 'impress';
+}
+
+.skull {
+    max-width: 5%;
+    top: -100px;
+    left: -100px;
+    pointer-events: none;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+
 @font-face {
     font-family: 'impress';
     src: url('/resources/fonts/impress2-webfont.woff2') format('woff2'),
